@@ -17,7 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 Model Name | Original DE score
-----------   -----------------
+---------- | -----------------
 AlexNet.   | 0.84
 Emotion Net | 0.65
 VGG-Face    | 0.77
