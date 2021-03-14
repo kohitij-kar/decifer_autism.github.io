@@ -6,9 +6,10 @@ _This resource currently contains hundreds of facial images (AI created, real ph
 You can use the [editor on GitHub](https://github.com/kohitij-kar/decifer_autism.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<details>
+  <summary> # What is DECIFER Autism? </summary>
 
-# What is DECIFER Autism?
-
+</details>
 ## Main goal 
 
 ## Scientific Motivation
