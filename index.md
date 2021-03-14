@@ -5,7 +5,7 @@ _This resource currently contains hundreds of facial images (AI created, real ph
 
 Original Image | Resized and SHINED | Aperture placed | Predicted Difference
 -------------- | ------------------ | --------------- | --------------------
-[Image](XzAxNDIzNzkuanBn.jpg)|[Image](im27_shined.png) |[Image](im27.png)|0.13
+![](XzAxNDIzNzkuanBn.jpg)|![](im27_shined.png) |![](im27.png)|0.13
 
 
 ## Welcome to GitHub Pages
