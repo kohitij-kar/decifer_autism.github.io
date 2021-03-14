@@ -5,7 +5,7 @@ This resource currently contains hundreds of facial images (AI created, real pho
 
 Original Image | Resized and SHINED | Aperture placed | Pass through ANN | Predicted Difference
 -------------- | ------------------ | --------------- | -----------------| --------------------
-![](XzAxNDIzNzkuanBn.jpg)|![](im27_shined.png) |![](im27.png)| ![](model_pred_v2.png) |0.13
+![](XzAxNDIzNzkuanBn.jpg)|![](im27_shined.png)|![](im27.png)|![](model_pred_v2.png)|0.13
 
 # Background: Why does this page exist ??
 
