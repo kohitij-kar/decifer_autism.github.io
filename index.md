@@ -7,7 +7,7 @@ Original Image | Resized and SHINED | Aperture placed | Pass through ANN | Predi
 -------------- | ------------------ | --------------- | -----------------| --------------------
 ![](XzAxNDIzNzkuanBn.jpg)|![](im27_shined.png)|![](im27.png)|![](model_pred_v2.png)|0.13
 
-[Click me](http://www.google.com){: .btn .btn-outline }
+<button type="button" name="button" class="btn">Button element</button>
 
 # Background: Why does this page exist ??
 
