@@ -7,8 +7,8 @@ Original Image | Resized and SHINED | Aperture placed | Pass through ANN | Predi
 -------------- | ------------------ | --------------- | -----------------| --------------------
 ![](XzAxNDIzNzkuanBn.jpg)|![](im27_shined.png)|![](im27.png)|![](model_pred_v2.png)|0.13
 
-
-[![button](faces-streetart-berlin-joachim-g-pinkawa.jpg)](https://google.com)
+**Check-out the image gallery**
+[![button](button.jpg)](https://google.com)
 
 
 
