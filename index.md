@@ -1,17 +1,14 @@
 
-_This resource currently contains hundreds of facial images (AI created, real photos, cartoons etc.) with varied emotions (with royalty free usage permit). In addition, the predicted "**diagnostic efficiency**" of the image-sets (i.e., ability to optimally discrminate between behaviors of individuals with autism or neurotypical development) as predicted by various models of primate vision are also provided here. This is a work in progress and I hope over time, the community will grow to include researchers doing clinical work who can test and validate these predictions"_ 
+This resource currently contains hundreds of facial images (AI created, real photos, cartoons etc.) with varied emotions (with royalty free usage permit). In addition, the predicted "**diagnostic efficiency**" of the image-sets (i.e., ability to optimally discriminate between behaviors of individuals with autism or neurotypical development) as predicted by various models of primate vision are also provided here. This is a work in progress and I hope over time, the community will grow to include researchers doing clinical work who can test and validate these predictions_ 
 
-## Basic Steps
+## Basic Steps:
 
 Original Image | Resized and SHINED | Aperture placed | Predicted Difference
 -------------- | ------------------ | --------------- | --------------------
 ![](XzAxNDIzNzkuanBn.jpg)|![](im27_shined.png) |![](im27.png)|0.13
 
+# Background: Why does this page exist ??
 
-## Welcome to GitHub Pages
-You can use the [editor on GitHub](https://github.com/kohitij-kar/decifer_autism.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 <details>
   <summary>  What is DECIFER Autism? </summary>
 
@@ -31,7 +28,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 </details>
 
-
+## Current available images and corresponding model predictions
+_This will grow over time_
 
 Model Name | Original DE score | Images Download Link
 ---------- | ----------------- | --------------------
