@@ -6,9 +6,11 @@ This resource currently contains hundreds of facial images (AI created, real pho
 Original Image | Resized and SHINED | Aperture placed | Pass through ANN | Predicted Difference
 -------------- | ------------------ | --------------- | -----------------| --------------------
 ![](XzAxNDIzNzkuanBn.jpg)|![](im27_shined.png)|![](im27.png)|![](model_pred_v2.png)|0.13
-
+<html>
+  <body>
 <button type="button" name="button" class="btn">Button element</button>
-
+  </body>
+  </html>
 # Background: Why does this page exist ??
 
 <details>
