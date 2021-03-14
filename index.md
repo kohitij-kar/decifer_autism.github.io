@@ -68,4 +68,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-If you have any questions regarding this line of research, please email me: [Kohitij Kar](mailto:kohitij@mit.edu) (you can please refer to me as Ko if that is easier)
+If you have any questions, advice, suggestions, eagerness to collaborate, discuss the science -- related to this line of research, please email me: [Kohitij Kar](mailto:kohitij@mit.edu) (you can please refer to me as Ko if that is easier)
