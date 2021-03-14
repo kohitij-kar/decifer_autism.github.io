@@ -1,5 +1,11 @@
 
-_This resource currently contains hundreds of facial images (AI created, real photos, cartoons etc.) with varied emotions (with royalty free usage permit). In addition, the "**diagnostic efficiency**" of the images (i.e., ability to optimally discrminate between behaviors of individuals with autism or neurotypical development) as predicted by various models of primate vision are also provided here. This is a work in progress and I hope over time, the community will grow to include researchers doing clinical work who can test and validate these predictions"_ 
+_This resource currently contains hundreds of facial images (AI created, real photos, cartoons etc.) with varied emotions (with royalty free usage permit). In addition, the predicted "**diagnostic efficiency**" of the image-sets (i.e., ability to optimally discrminate between behaviors of individuals with autism or neurotypical development) as predicted by various models of primate vision are also provided here. This is a work in progress and I hope over time, the community will grow to include researchers doing clinical work who can test and validate these predictions"_ 
+
+## Basic Steps
+
+Original Image | Resized and SHINED | Aperture placed | Predicted Difference
+-------------- | ------------------ | --------------- | --------------------
+[Image](XzAxNDIzNzkuanBn.jpg)|[Image](im27_shined.png) |[Image](im27.png)|0.13
 
 
 ## Welcome to GitHub Pages
