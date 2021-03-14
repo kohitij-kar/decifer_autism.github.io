@@ -8,14 +8,23 @@ You can use the [editor on GitHub](https://github.com/kohitij-kar/decifer_autism
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 <details>
   <summary>  What is DECIFER Autism? </summary>
-  
-  <summary>  Main Goal </summary>
+
 </details>
-## Main goal 
+<details>
+  <summary>  Main Goal </summary>
 
-## Scientific Motivation
+</details>
 
-## Working hypothesis and preliminary proof of principle
+<details>
+  <summary>  Scientific Motivation </summary>
+
+</details>
+
+<details>
+  <summary>  Working hypothesis and preliminary proof of principle </summary>
+
+</details>
+
 
 
 Model Name | Original DE score | Images Download Link
