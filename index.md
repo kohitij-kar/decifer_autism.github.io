@@ -1,6 +1,6 @@
-```
+
 _This resource currently contains hundreds of facial images (AI created, real photos, cartoons etc.) with varied emotions (with royalty free usage permit). In addition, the "**diagnostic efficiency**" of the images (i.e., ability to optimally discrminate between behaviors of individuals with autism or neurotypical development) as predicted by various models of primate vision are also provided here. This is a work in progress and I hope over time, the community will grow to include researchers doing clinical work who can test and validate these predictions"_ 
-```
+
 
 ## Welcome to GitHub Pages
 You can use the [editor on GitHub](https://github.com/kohitij-kar/decifer_autism.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
