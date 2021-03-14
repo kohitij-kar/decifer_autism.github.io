@@ -1,5 +1,5 @@
 
-This resource currently contains hundreds of facial images (AI created, real photos, cartoons etc.) with varied emotions (with royalty free usage permit). In addition, the predicted "**diagnostic efficiency**" of the image-sets (i.e., ability to optimally discriminate between behaviors of individuals with autism or neurotypical development) as predicted by various models of primate vision are also provided here. This is a work in progress and I hope over time, the community will grow to include researchers doing clinical work who can test and validate these predictions_ 
+This resource currently contains hundreds of facial images (AI created, real photos, cartoons etc.) with varied emotions (with royalty free usage permit). In addition, the likely "**diagnostic efficiency**" of the images (i.e., potential ability to optimally discriminate between behaviors of individuals with autism or neurotypical development) as predicted by various models of primate vision are also provided here. This is a work in progress and I hope over time, the research community around this will grow to include folks doing clinical/translational work who can test and validate these predictions
 
 ## Basic Steps:
 
@@ -37,6 +37,18 @@ AlexNet.   | 0.84 | [Link](https://github.com/kohitij-kar/decifer_autism.github.
 Emotion Net | 0.65 |
 VGG-Face    | 0.77 |
 CORnet-S    | 0.65 |
+
+
+```
+## Future additions coming!
+
+- Morphs between facial emotions of same eindividuals
+- Videos of individuals demonstrating facial emotions
+- More models
+- Neurally regularized model predictions
+- Model synthesized images with specific behavioral predictions
+
+```
 
 ### Markdown
 
