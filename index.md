@@ -6,6 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # What is DECIFER Autism?
 
+## Main goal 
+
+## Scientific Motivation
+
+## Working hypothesis and preliminary proof of principle
+
+
 
 ### Markdown
 
