@@ -33,7 +33,7 @@ _This will grow over time_
 
 Model Name | Full-set DE score | Optim-set DE score | Download (All) | Download (optimized)
 ---------- | ----------------- | ------------------ | -------------- | --------------------
-AlexNet.    | 0.34 | 0.84 | [Link](https://github.com/kohitij-kar/decifer_autism.github.io)| [Link](https://github.com/kohitij-kar/decifer_autism.github.io)
+AlexNet.    | 0.34 | 0.84 | [Link](https://github.com/kohitij-kar/decifer_autism.github.io)|[Link](https://github.com/kohitij-kar/decifer_autism.github.io)
 Emotion Net | 0.25 | 0.94 |
 VGG-Face    | 0.32 | 0.88 |
 CORnet-S    | 0.15 | 0.83 |
