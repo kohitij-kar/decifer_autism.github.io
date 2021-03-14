@@ -5,7 +5,7 @@ This resource currently contains hundreds of facial images (AI created, real pho
 
 Original Image | Resized and SHINED | Aperture placed | Pass through ANN | Predicted Difference
 -------------- | ------------------ | --------------- | -----------------| --------------------
-![](XzAxNDIzNzkuanBn.jpg)|![](im27_shined.png) |![](im27.png)| ![](model_pred.png) |0.13
+![](XzAxNDIzNzkuanBn.jpg)|![](im27_shined.png) |![](im27.png)| ![](model_pred_v2.png) |0.13
 
 # Background: Why does this page exist ??
 
@@ -52,4 +52,4 @@ CORnet-S    | 0.15 | 0.83 |
 
 ### Support or Contact
 
-If you have any questions, advice, suggestions, eagerness to collaborate, discuss the science -- related to this line of research, please email me: [Kohitij Kar](mailto:kohitij@mit.edu) (you can refer to me as **Ko** if that is easier)
+If you have any questions, advice, suggestions, eagerness to collaborate, or want to discuss the science -- related to this line of research, please email me: [Kohitij Kar](mailto:kohitij@mit.edu) (you can refer to me as **Ko** if that is easier)
