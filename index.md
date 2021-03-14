@@ -31,12 +31,12 @@ Original Image | Resized and SHINED | Aperture placed | Predicted Difference
 ## Current available images and corresponding model predictions
 _This will grow over time_
 
-Model Name | Original DE score | Images Download Link
----------- | ----------------- | --------------------
-AlexNet.   | 0.84 | [Link](https://github.com/kohitij-kar/decifer_autism.github.io)
-Emotion Net | 0.65 |
-VGG-Face    | 0.77 |
-CORnet-S    | 0.65 |
+Model Name | Full-set DE score | Optim-set DE score | Download (All) | Download (optimized)
+---------- | ----------------- | ------------------ | -------------- | --------------------
+AlexNet.    | 0.34 | 0.84 | [Link](https://github.com/kohitij-kar/decifer_autism.github.io)| [Link](https://github.com/kohitij-kar/decifer_autism.github.io)
+Emotion Net | 0.25 | 0.94 |
+VGG-Face    | 0.32 | 0.88 |
+CORnet-S    | 0.15 | 0.83 |
 
 
 ```
@@ -52,4 +52,4 @@ CORnet-S    | 0.65 |
 
 ### Support or Contact
 
-If you have any questions, advice, suggestions, eagerness to collaborate, discuss the science -- related to this line of research, please email me: [Kohitij Kar](mailto:kohitij@mit.edu) (you can please refer to me as Ko if that is easier)
+If you have any questions, advice, suggestions, eagerness to collaborate, discuss the science -- related to this line of research, please email me: [Kohitij Kar](mailto:kohitij@mit.edu) (you can refer to me as **Ko** if that is easier)
