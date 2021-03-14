@@ -3,9 +3,9 @@ This resource currently contains hundreds of facial images (AI created, real pho
 
 ## Basic Steps:
 
-Original Image | Resized and SHINED | Aperture placed | Predicted Difference
--------------- | ------------------ | --------------- | --------------------
-![](XzAxNDIzNzkuanBn.jpg)|![](im27_shined.png) |![](im27.png)|0.13
+Original Image | Resized and SHINED | Aperture placed | Pass through ANN | Predicted Difference
+-------------- | ------------------ | --------------- | -----------------  --------------------
+![](XzAxNDIzNzkuanBn.jpg)|![](im27_shined.png) |![](im27.png)| ![](model_pred.png) |0.13
 
 # Background: Why does this page exist ??
 
