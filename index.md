@@ -10,9 +10,9 @@ Original Image | Resized and SHINED | Aperture placed | Pass through ANN | Predi
 
 ## Check-out the image gallery:
 
-[![button](bt2.png)](https://github.com/kohitij-kar/decifer_autism.github.io/image_gallery.html)
+[![button](bt2.png)](_posts/image_gallery.md)
 
-<a href="_my_collection/image_gallery.html">Page 2</a>
+
 # Background: Why does this webpage exist ??
 
 <details>
