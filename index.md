@@ -9,11 +9,8 @@ Original Image | Resized and SHINED | Aperture placed | Pass through ANN | Predi
 
 
 ## Check-out the image gallery:
-<div align="center">
+
 [![button](bt2.png)](https://google.com)
-  </dev>
-
-
 
 # Background: Why does this page exist ??
 
