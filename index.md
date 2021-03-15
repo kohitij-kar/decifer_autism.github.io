@@ -9,7 +9,9 @@ Original Image | Resized and SHINED | Aperture placed | Pass through ANN | Predi
 
 
 ## Check-out the image gallery:
+<div align="center">
 [![button](bt2.png)](https://google.com)
+  </dev>
 
 
 
@@ -46,7 +48,7 @@ CORnet-S    | 0.15 | 0.83 |
 
 
 ```
-## Future additions coming!
+Future additions coming!
 
 * Morphs between facial emotions of same individuals
 * Videos of individuals demonstrating facial emotions
