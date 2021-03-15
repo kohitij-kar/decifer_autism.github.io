@@ -12,11 +12,11 @@
 
 ## Fearful faces:
 
-![](../images/im82.png) | ![](../images/im83.png) | ![](../images/im84.png) | ![](../images/im85.png)
+![](../images/im61.png) | ![](../images/im62.png) | ![](../images/im63.png) | ![](../images/im64.png)
 -------------------- | -------------------- | -------------------- | --------------------
-![](../images/im86.png) | ![](../images/im87.png) | ![](../images/im88.png) | ![](../images/im89.png)
-![](../images/im90.png) | ![](../images/im91.png) | ![](../images/im92.png) | ![](../images/im93.png)
-![](../images/im94.png) | ![](../images/im95.png) | ![](../images/im96.png) | ![](../images/im97.png)
-![](../images/im98.png) | ![](../images/im99.png) | ![](../images/im100.png) | ![](../images/im101.png)
+![](../images/im65.png) | ![](../images/im66.png) | ![](../images/im67.png) | ![](../images/im68.png)
+![](../images/im69.png) | ![](../images/im70.png) | ![](../images/im71.png) | ![](../images/im72.png)
+![](../images/im73.png) | ![](../images/im74.png) | ![](../images/im75.png) | ![](../images/im76.png)
+![](../images/im77.png) | ![](../images/im78.png) | ![](../images/im79.png) | ![](../images/im80.png)
 
 
