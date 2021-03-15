@@ -9,7 +9,7 @@ Original Image | Resized and SHINED | Aperture placed | Pass through ANN | Predi
 
 
 ## Check-out the image gallery:
-[![button](bt2.png)](https://google.com)
+<center>[![button](bt2.png)](https://google.com)</center>
 
 
 
