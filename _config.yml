@@ -5,4 +5,4 @@ github:
   is_project_page: false
 relative_links:
   enabled:     true
-  collections: false
+  collections: true
