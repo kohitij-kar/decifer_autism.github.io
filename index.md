@@ -12,7 +12,7 @@ Original Image | Resized and SHINED | Aperture placed | Pass through ANN | Predi
 
 [![button](bt2.png)](https://google.com)
 
-# Background: Why does this page exist ??
+# Background: Why does this webpage exist ??
 
 <details>
   <summary>  What is DECIFER Autism? </summary>
