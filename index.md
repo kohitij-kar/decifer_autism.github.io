@@ -9,7 +9,7 @@ Original Image | Resized and SHINED | Aperture placed | Pass through ANN | Predi
 
 ## Check-out the image gallery:
 
-[![button](bt2.png)]({% post_url http://kohitij.com %})
+[![button](bt2.png)](_posts/image_gallery.md)
 
 
 # Background: Why does this webpage exist ??
