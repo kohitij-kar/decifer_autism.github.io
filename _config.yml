@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: DECIFER Autism
-description: Diagnostic Efficiency based Curation of Images for Facial Emotion Recognition in Autism 
+description: Diagnostic Efficiency based Curation of Images for Facial Emotion Recognition in Autism
+include_relative: _posts/image_gallery.md
 github:
   is_project_page: false
 plugins:
