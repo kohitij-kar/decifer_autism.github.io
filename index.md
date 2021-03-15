@@ -48,11 +48,11 @@ CORnet-S    | 0.15 | 0.83 |
 ```
 ## Future additions coming!
 
-- Morphs between facial emotions of same individuals
-- Videos of individuals demonstrating facial emotions
-- Predictions from more models
-- Neurally regularized model predictions
-- Model synthesized images with specific behavioral predictions
+* Morphs between facial emotions of same individuals
+* Videos of individuals demonstrating facial emotions
+* Predictions from more models
+* Neurally regularized model predictions
+* Model synthesized images with specific behavioral predictions
 
 ```
 
