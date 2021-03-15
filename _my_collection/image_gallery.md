@@ -2,7 +2,7 @@
 
 ## Neutral and Happy faces:
 
-![Delta](../images/im0.png) | ![](../images/im1.png) | ![](../images/im2.png) | ![](../images/im3.png)
+![](../images/im0.png) | ![](../images/im1.png) | ![](../images/im2.png) | ![](../images/im3.png)
 -------------------- | -------------------- | -------------------- | --------------------
 ![](../images/im4.png) | ![](../images/im5.png) | ![](../images/im6.png) | ![](../images/im7.png)
 ![](../images/im8.png) | ![](../images/im9.png) | ![](../images/im10.png) | ![](../images/im11.png)
