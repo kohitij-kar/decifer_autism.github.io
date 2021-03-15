@@ -38,10 +38,10 @@ _This will grow over time_
 
 Model Name | Full-set DE score | Optim-set DE score | Download (All) | Download (optimized)
 ---------- | ----------------- | ------------------ | -------------- | --------------------
-AlexNet.    | 0.34 | 0.84 |[Link (activated upon paper publication)](https://github.com/kohitij-kar/decifer_autism.github.io)|[Link(activated upon paper publication)](https://github.com/kohitij-kar/decifer_autism.github.io)
-Emotion Net | 0.25 | 0.94 |[Link (activated upon paper publication)](https://github.com/kohitij-kar/decifer_autism.github.io)|[Link(activated upon paper publication)](https://github.com/kohitij-kar/decifer_autism.github.io)
-VGG-Face    | 0.32 | 0.88 |[Link(activated upon paper publication)](https://github.com/kohitij-kar/decifer_autism.github.io)|[Link(activated upon paper publication)](https://github.com/kohitij-kar/decifer_autism.github.io)
-CORnet-S    | 0.15 | 0.83 |[Link(activated upon paper publication)](https://github.com/kohitij-kar/decifer_autism.github.io)|[Link(activated upon paper publication)](https://github.com/kohitij-kar/decifer_autism.github.io)
+AlexNet.    | 0.34 | 0.84 |[Link (_activated upon publication_)](https://github.com/kohitij-kar/decifer_autism.github.io)|[Link(_activated upon publication_)](https://github.com/kohitij-kar/decifer_autism.github.io)
+Emotion Net | 0.25 | 0.94 |[Link (_activated upon publication_)](https://github.com/kohitij-kar/decifer_autism.github.io)|[Link(_activated upon publication_)](https://github.com/kohitij-kar/decifer_autism.github.io)
+VGG-Face    | 0.32 | 0.88 |[Link(_activated upon publication_)](https://github.com/kohitij-kar/decifer_autism.github.io)|[Link(_activated upon publication_)](https://github.com/kohitij-kar/decifer_autism.github.io)
+CORnet-S    | 0.15 | 0.83 |[Link(_activated upon publication_)](https://github.com/kohitij-kar/decifer_autism.github.io)|[Link(_activated upon publication_)](https://github.com/kohitij-kar/decifer_autism.github.io)
 
 
 ```
