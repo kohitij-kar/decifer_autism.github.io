@@ -1,3 +1,13 @@
+## Neutral and Happy faces:
+
+![](images/im0.png) | ![](images/im1.png) | ![](images/im2.png) | ![](images/im3.png)
+-------------------- | -------------------- | -------------------- | --------------------
+![](images/im4.png) | ![](images/im5.png) | ![](images/im6.png) | ![](images/im7.png)
+![](images/im8.png) | ![](images/im9.png) | ![](images/im10.png) | ![](images/im11.png)
+![](images/im12.png) | ![](images/im13.png) | ![](images/im14.png) | ![](images/im15.png)
+![](images/im16.png) | ![](images/im17.png) | ![](images/im18.png) | ![](images/im19.png)
+
+
 ## Fearful faces:
 
 ![](images/im82.png) | ![](images/im83.png) | ![](images/im84.png) | ![](images/im85.png)
